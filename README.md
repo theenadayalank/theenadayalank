@@ -2,11 +2,11 @@
 <h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-  My Name is <b>Theenadayalan</b>, I am 24 years old and I have been into Software Development for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
+  My Name is <b>Theenadayalan</b>, I am 24 years old and I have been into Software Development <br>for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
 </p>
 
 <p align="center">
-  I work at <b>Zoho Corporation</b> as a Front End Engineer and I'm passionate about <b>Ember.js</b> and <b>JavaScript</b>
+  I work at <b>Zoho Corporation</b> as a Front End Engineer and  <br> I'm passionate about <b>Ember.js</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">***</p>
