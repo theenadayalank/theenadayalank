@@ -1,16 +1,44 @@
-### Hi there 👋
+<samp>
+<h1 align="center">Hello, folks! 👋</h1>
 
-<!--
-**theenadayalank/theenadayalank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  My Name is Theenadayalan, I am 24 years old and I have been into Software Development for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I work at <b>Zoho Corporation</b> as a Front End Engineer and I'm passionate about <b>Ember.js</b> and <b>JavaScript</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">***</p>
+
+<p align="center">🌱 I'm Learning <strong>Vue</strong> and <strong>TypeScript</strong>.</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/theenadayalan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
+  <a href="https://twitter.com/theenadayalan_k" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
+  <a href="https://dev.to/theenadayalan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="20" width="20" /></a>
+  <a href="https://instagram.com/theenadayalan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
+</p>
+
+***
+
+<p align="center">✨Equal is not always equal in JavaScript✨</p>
+
+***
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Ember.js, JavaScript.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theenadayalank).
+- 💬 &nbsp; Ask me about anything [here](https://twitter.com/theenadayalan_k)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: puduvai.theena@gmail.com
+- 📝 &nbsp; Checkout my [Resume](https://www.theenadayalan.me/Theenadayalan.pdf).
+
+
+
+## GitHub Stats
+
+[![Theenadayalan's github stats](https://github-readme-stats.vercel.app/api?username=theenadayalank)](https://github.com/theenadayalank/theenadayalank)
+
+</samp>
