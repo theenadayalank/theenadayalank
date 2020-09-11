@@ -26,7 +26,7 @@
 
 ***
 
-### Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Ember.js, JavaScript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theenadayalank).
