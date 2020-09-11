@@ -2,7 +2,7 @@
 <h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-  My Name is Theenadayalan, I am 24 years old and I have been into Software Development for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
+  My Name is <b>Theenadayalan</b>, I am 24 years old and I have been into Software Development for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
 </p>
 
 <p align="center">
