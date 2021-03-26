@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I work at <b>Zoho Corporation</b> as a Front End Engineer and  <br> I'm passionate about <b>Ember.js</b> and <b>JavaScript</b>
+  I work at <b>BYJUs</b> as a Front End Engineer and  <br> I'm passionate about <b>ReactJS</b>, <b>EmberJS</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">***</p>
