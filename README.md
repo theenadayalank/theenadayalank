@@ -2,16 +2,16 @@
 <h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-  My Name is <b>Theenadayalan</b>, I am 24 years old and I have been into Software Development <br>for 3 years. You can see me either coding or watching GOT for the <b>n</b> th time. 
+  My Name is <b>Theenadayalan</b>, I am 25 years old and I have been into Software Development <br>for 4+ years. You can see me either coding or watching GOT for the <b>n</b> th time. 
 </p>
 
 <p align="center">
-  I work at <b>BYJUs</b> as a Front End Engineer and  <br> I'm passionate about <b>ReactJS</b>, <b>EmberJS</b> and <b>JavaScript</b>
+  I work at <b>BYJUs</b> as a Senior Frontend Engineer and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">***</p>
 
-<p align="center">🌱 I'm Learning <strong>Vue</strong> and <strong>TypeScript</strong>.</p>
+<p align="center">🌱 I'm Learning <strong>Redux</strong> and <strong>TypeScript</strong>.</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/theenadayalan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
@@ -28,7 +28,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Ember.js, JavaScript.
+- 🛠 &nbsp; I’m currently working with React.js, JavaScript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theenadayalank).
 - 💬 &nbsp; Ask me about anything [here](https://twitter.com/theenadayalan_k)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
