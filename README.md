@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I work at <b>Optimum Solutions Pte Ltd</b> as a <b>Senior Reactjs Consultant</b> in Singapore🇸🇬 and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
+  I work at <b>Optimum Solutions Pte Ltd</b> as a <b>Senior Reactjs Consultant</b> in <b>Singapore🇸🇬</b> and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">***</p>
