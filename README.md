@@ -2,11 +2,11 @@
 <h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-  My Name is <b>Theenadayalan</b>, I am 25 years old and I have been into Software Development <br>for 4+ years. You can see me either coding or watching GOT for the <b>n</b> th time. 
+  This is <b>Theenadayalan</b> here, I am 26 years old and I have been into Software Development <br>for 5+ years. You can see me either coding or watching GOT for the <b>n</b> th time. 
 </p>
 
 <p align="center">
-  I work at <b>BYJUs</b> as a Senior Frontend Engineer and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
+  I work at <b>Optimum Solutions Pte Ltd</b> as a <b>Senior Reactjs Consultant</b> in Singapore🇸🇬 and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">***</p>
